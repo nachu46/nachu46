@@ -1,18 +1,21 @@
 <div align="center">
 
-# Hi there, I'm Nazuk 👋
+  <h1>Hi there, I'm Nazuk 👋</h1>
 
-<a href="https://github.com/nachu46">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Backend+%26+Computer+Vision+Engineer;PyTorch%2C+YOLOv8%2C+OpenCV+%26+MediaPipe;Real-Time+AI+Inference+Pipelines;Full-Stack+Web+Development+%26+APIs" alt="Typing SVG" />
-</a>
+  <a href="https://github.com/nachu46">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Backend+%26+Computer+Vision+Engineer;PyTorch%2C+YOLOv8%2C+OpenCV+%26+MediaPipe;Real-Time+AI+Inference+Pipelines;Full-Stack+Web+Development+%26+APIs" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <b>Building intelligent perception backends, deep learning pipelines, and full-stack web applications.</b>
-</p>
+  <p>
+    <b>Building intelligent perception backends, deep learning pipelines, and full-stack web applications.</b>
+  </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nachu46&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/nachu46)
-[![GitHub followers](https://img.shields.io/github/followers/nachu46?label=Followers&style=flat-square&color=238636)](https://github.com/nachu46?tab=followers)
-[![Email](https://img.shields.io/badge/Email-nachunazuk%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:nachunazuk@gmail.com)
+  <p>
+    <a href="https://github.com/nachu46?tab=followers"><img src="https://img.shields.io/github/followers/nachu46?label=Followers&style=flat-square&color=238636&logo=github" alt="Followers" /></a>
+    <a href="mailto:nachunazuk@gmail.com"><img src="https://img.shields.io/badge/Email-nachunazuk%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Specialization-Computer_Vision_%26_AI-6366F1?style=flat-square" alt="Specialization" />
+    <img src="https://img.shields.io/badge/Status-Building_Intelligent_Apps-brightgreen?style=flat-square" alt="Status" />
+  </p>
 
 </div>
 
